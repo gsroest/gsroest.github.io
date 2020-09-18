@@ -4,15 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-Test.
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+The best way to contact me is through email: Geoffrey.Roest@nau.edu. I typically respond in 1-2 days, so feel free to follow up if you do not hear back within a few days. Thank you!
