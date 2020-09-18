@@ -10,42 +10,42 @@ Please find my publications below, along with a list of publications that are cu
 
 # Submitted and under review
 
-Gurney, K. R. et al., 2020: The Vulcan Version 3.0 High-Resolution Fossil Fuel CO2 Emissions for the United States, submitted to J. Geophys. Res.: Atmos.
+Gurney, K. R. et al., 2020: The Vulcan Version 3.0 High-Resolution Fossil Fuel CO2 Emissions for the United States, submitted to *J. Geophys. Res.: Atmos*.
 
-Gurney, K. R. et al., 2020: Under-reporting of greenhouse gas emissions in U.S. cities, submitted to Nature Communications.
+Gurney, K. R. et al., 2020: Under-reporting of greenhouse gas emissions in U.S. cities, submitted to *Nature Communications*.
 
-Mueller, K. L. et al., 2020: Measurement-based greenhouse gas emission estimates in support of city climate action and sustainability goals. In prep for Nature Climate Change Perspectives.
+Mueller, K. L. et al., 2020: Measurement-based greenhouse gas emission estimates in support of city climate action and sustainability goals. In prep for *Nature Climate Change Perspectives*.
 
-Roest, G. S. et al., 2020: Informing urban climate planning with high resolution data: the Hestia fossil fuel CO2 emissions for Baltimore, Maryland, in review for Carbon Balance and Management.
+Roest, G. S. et al., 2020: Informing urban climate planning with high resolution data: the Hestia fossil fuel CO2 emissions for Baltimore, Maryland, in review for *Carbon Balance and Management*.
 
 # 2020
 
-Gurney, K. R. et al., 2020: Towards accurate, policy-relevant fossil fuel CO2 emission landscapes, Envi. Sci. Tech., [doi:10.1021/acs.est.0c01175](https://doi.org/10.1021/acs.est.0c01175).
+Gurney, K. R. et al., 2020: Towards accurate, policy-relevant fossil fuel CO2 emission landscapes, *Envi. Sci. Tech.*, [doi:10.1021/acs.est.0c01175](https://doi.org/10.1021/acs.est.0c01175).
 
-Roest, G. S., and G. W. Schade, 2020: Air quality impacts from oil and gas activity in the western Eagle Ford Shale, Elem. Sci. Anth., [doi:10.1525/elementa.414](http://doi.org/10.1525/elementa.414)
+Roest, G. S., and G. W. Schade, 2020: Air quality impacts from oil and gas activity in the western Eagle Ford Shale, *Elem. Sci. Anth.*, [doi:10.1525/elementa.414](http://doi.org/10.1525/elementa.414)
 
 # 2019
 
-Wang, Y. et al., 2019: A global map of emission clumps for future monitoring of fossil fuel CO2 emissions from space, Earth Syst. Sci. Data, [doi:10.5194/essd-11-687-2019](https://doi.org/10.5194/essd-11-687-2019).
+Wang, Y. et al., 2019: A global map of emission clumps for future monitoring of fossil fuel CO2 emissions from space, *Earth Syst. Sci. Data*, [doi:10.5194/essd-11-687-2019](https://doi.org/10.5194/essd-11-687-2019).
 
 # 2018
 
-Schade, G. W., and G. S. Roest, 2018: Source apportionment of non-methane hydrocarbons, NOx and H2S data from a central monitoring station in the Eagle Ford shale, Texas, Elem. Sci. Anth., [doi:10.1525/elementa.289](http://doi.org/10.1525/elementa.289).
+Schade, G. W., and G. S. Roest, 2018: Source apportionment of non-methane hydrocarbons, NOx and H2S data from a central monitoring station in the Eagle Ford shale, Texas, *Elem. Sci. Anth.*, [doi:10.1525/elementa.289](http://doi.org/10.1525/elementa.289).
 
 # 2017
 
-Roest, G. S. and G. W. Schade, 2017: Quantifying alkane emissions in the Eagle Ford Shale using boundary layer enhancement, Atmos. Chem. Phys., [doi:10.5194/acp-17-11163-2017](https://doi.org/10.5194/acp-17-11163-2017
+Roest, G. S. and G. W. Schade, 2017: Quantifying alkane emissions in the Eagle Ford Shale using boundary layer enhancement, *Atmos. Chem. Phys.*, [doi:10.5194/acp-17-11163-2017](https://doi.org/10.5194/acp-17-11163-2017
 ).
 
 # 2016
 
-Koch, K., S. et al., 2016: On Methane Leaks from Pipelines in Bryan and College Station, Texas, USA, Open Atmos. Sci. J., [doi:10.2174/1874282301610010056](https://benthamopen.com/ABSTRACT/TOASCJ-10-56).
+Koch, K., S. et al., 2016: On Methane Leaks from Pipelines in Bryan and College Station, Texas, USA, *Open Atmos. Sci. J.*, [doi:10.2174/1874282301610010056](https://benthamopen.com/ABSTRACT/TOASCJ-10-56).
 
-Schade, G. W., and G. S. Roest, 2016: Analysis of non-methane hydrocarbon data from a monitoring station affected by oil and gas development in the Eagle Ford shale, Texas, Elem. Sci. Anth., [doi:10.12952/journal.elementa.000096](http://doi.org/10.12952/journal.elementa.000096).
+Schade, G. W., and G. S. Roest, 2016: Analysis of non-methane hydrocarbon data from a monitoring station affected by oil and gas development in the Eagle Ford shale, Texas, *Elem. Sci. Anth.*, [doi:10.12952/journal.elementa.000096](http://doi.org/10.12952/journal.elementa.000096).
 
 # 2015
 
-Schade, G. W., and G. S. Roest, 2015: Is the shale boom reversing progress in curbing ozone pollution?, Eos, [doi:10.1029/2015EO028279](https://eos.org/opinions/is-the-shale-boom-reversing-progress-in-curbing-ozone-pollution).
+Schade, G. W., and G. S. Roest, 2015: Is the shale boom reversing progress in curbing ozone pollution?, *Eos*, [doi:10.1029/2015EO028279](https://eos.org/opinions/is-the-shale-boom-reversing-progress-in-curbing-ozone-pollution).
 
 # Other published writing
 
