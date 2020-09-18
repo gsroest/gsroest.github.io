@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# Welcome!
-
-Please use the menu at the top to navigate, and find new blog posts below my portrait.
+Welcome! Please use the menu at the top to navigate, and find new blog posts below my portrait.
 
 ![image](/assets/images/portrait.jpg)
