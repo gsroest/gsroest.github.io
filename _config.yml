@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Geoff Roest, PhD
+# title: Geoff Roest, PhD
 email: Geoffrey.Roest@nau.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Thank you for visitin my site. I am an atmospheric scientist at Northern Arizona University in Flagstaff, AZ. My current research focuses on CO2 emissions from fossil fuel use in the United States. Please browse this site and [https://gurneylab.nau.edu](https://gurneylab.nau.edu) for details and updates.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://scholar.google.com/citations?user=px2XRPkAAAAJ&hl=en # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://scholar.google.com/citations?user=px2XRPkAAAAJ&hl=en" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: geoff-roest-82715782
 google-scholar: https://scholar.google.com/citations?user=px2XRPkAAAAJ&hl=en
 github_username:  gsroest
@@ -32,6 +32,11 @@ github_username:  gsroest
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages:
+ - about.md
+ - publications.md
+ - contact.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
