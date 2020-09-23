@@ -10,13 +10,19 @@ Please find my publications below, along with a list of publications that are cu
 
 # Submitted and under review
 
-Gurney, K. R. et al., 2020: The Vulcan Version 3.0 High-Resolution Fossil Fuel CO2 Emissions for the United States, submitted to *J. Geophys. Res.: Atmos*.
+Addington, O. et al.: Estimating Nitrous Oxide (N2O) Emissions for the Los Angeles Megacity using mountaintop remote sensing observations. Submitted to *Remote Sens. Environ.*
 
-Gurney, K. R. et al., 2020: Under-reporting of greenhouse gas emissions in U.S. cities, submitted to *Nature Communications*.
+Gurney, K. R. et al.: Real-time data-driven estimate of U.S. fossil fuel carbon dioxide emissions during the COVID-19 pandemic. In prep for *TBD*.
 
-Mueller, K. L. et al., 2020: Measurement-based greenhouse gas emission estimates in support of city climate action and sustainability goals. In prep for *Nature Climate Change Perspectives*.
+Gurney, K. R. et al.: The Vulcan Version 3.0 High-Resolution Fossil Fuel CO2 Emissions for the United States, accepted to *J. Geophys. Res.: Atmos*.
 
-Roest, G. S. et al., 2020: Informing urban climate planning with high resolution data: the Hestia fossil fuel CO2 emissions for Baltimore, Maryland, in review for *Carbon Balance and Management*.
+Gurney, K. R. et al.: Under-reporting of greenhouse gas emissions in U.S. cities, submitted to *Nature Communications*.
+
+Miles, N. L. et al.: The influence of near-field fluxes on seasonal CO2 enhancements: Results from the Indianapolis Flux Experiment (INFLUX). In prep for *TBD*.
+
+Mueller, K. L. et al.: Measurement-based greenhouse gas emission estimates in support of city climate action and sustainability goals. Submitted to *Nature Urban Sustainability*.
+
+Roest, G. S. et al.: Informing urban climate planning with high resolution data: the Hestia fossil fuel CO2 emissions for Baltimore, Maryland, in review for *Carbon Balance and Management*.
 
 # 2020
 
