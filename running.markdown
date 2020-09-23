@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Running
+permalink: /running/
 ---
 
 This page is currently under construction.
