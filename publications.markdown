@@ -60,16 +60,16 @@ Contributed to: Parish, D. D., S. Kemball-Cook, J. Grant, and G. Yarwood, 2017: 
 
 Roest, G. S., 2014: Quasigeostrophic Diagnosis of an Explosively Developing Cyclone Along the Northern California Coast. Masters Thesis, San Francisco State University.
 
-# Published datasets (submitter in *bold*)
+# Published datasets (submitter in **bold**)
 
-Gurney, K. R., J. Liang, R. Patarasuk, Y. Song, J. Huang, and **G. S. Roest**, 2019. Vulcan Version 3.0 High-Resolution Fossil Fuel CO2 Hourly Emissions, USA, 2010-2015. ORNL DAAC, Oak Ridge, Tennessee, USA. https://doi.org/10.3334/ORNLDAAC/1810
+Gurney, K. R., J. Liang, R. Patarasuk, Y. Song, J. Huang, and **G. S. Roest**, 2019. Vulcan Version 3.0 High-Resolution Fossil Fuel CO2 Hourly Emissions, USA, 2010-2015. ORNL DAAC, Oak Ridge, Tennessee, USA. [https://doi.org/10.3334/ORNLDAAC/1810](https://doi.org/10.3334/ORNLDAAC/1810)
 
-Gurney, K. R., J. Liang, R. Patarasuk, Y. Song, J. Huang, and **G. S. Roest**, 2019. Vulcan Version 3.0 High-Resolution Fossil Fuel CO2 Annual Emissions, USA, 2010-2015. ORNL DAAC, Oak Ridge, Tennessee, USA. https://doi.org/10.3334/ORNLDAAC/1741 
+Gurney, K. R., J. Liang, R. Patarasuk, Y. Song, J. Huang, and **G. S. Roest**, 2019. Vulcan Version 3.0 High-Resolution Fossil Fuel CO2 Annual Emissions, USA, 2010-2015. ORNL DAAC, Oak Ridge, Tennessee, USA. [https://doi.org/10.3334/ORNLDAAC/1741](https://doi.org/10.3334/ORNLDAAC/1741) 
 
-Roest, G. S., and **G. W. Schade**, 2020: “Replication Data for: Air quality measurements in the western Eagle Ford Shale”, in prep for Texas Data Repository.
+Roest, G. S., and **G. W. Schade**, 2020: “Replication Data for: Air quality measurements in the western Eagle Ford Shale”, Texas Data Repository Dataverse, V1. [https://doi.org/10.18738/T8/ISKZOC](https://doi.org/10.18738/T8/ISKZOC)
 
-Gurney, K. R., J. Liang, R. Patarasuk, Y. Song, J. Huang, **G. S. Roest**, 2020, "Replication Data for: Estimating US Fossil Fuel CO2 Emissions from Measurements of 14C in Atmospheric CO2", https://doi.org/10.7910/DVN/NEDAP3, Harvard Dataverse, V1.
+Gurney, K. R., J. Liang, R. Patarasuk, Y. Song, J. Huang, **G. S. Roest**, 2020, "Replication Data for: Estimating US Fossil Fuel CO2 Emissions from Measurements of 14C in Atmospheric CO2", Harvard Dataverse, V1. [https://doi.org/10.7910/DVN/NEDAP3](https://doi.org/10.7910/DVN/NEDAP3)
 
-**Roest, G. S.**, and G. W. Schade, 2017, "Replication Data for: Quantifying alkane emissions in the Eagle Ford Shale using boundary layer enhancement", https://doi.org/10.18738/T8/0ML8TH, Texas Data Repository Dataverse, V1.
+**Roest, G. S.**, and G. W. Schade, 2017, "Replication Data for: Quantifying alkane emissions in the Eagle Ford Shale using boundary layer enhancement", Texas Data Repository Dataverse, V1. [https://doi.org/10.18738/T8/0ML8TH](https://doi.org/10.18738/T8/0ML8TH)
 
 
