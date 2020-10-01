@@ -21,7 +21,7 @@ Miles, N. L. et al.: The influence of near-field fluxes on seasonal CO2 enhancem
 
 Mueller, K. L. et al.: Measurement-based greenhouse gas emission estimates in support of city climate action and sustainability goals. Submitted to *Nature Urban Sustainability*.
 
-Roest, G. S. et al.: Informing urban climate planning with high resolution data: the Hestia fossil fuel CO2 emissions for Baltimore, Maryland, in review for *Carbon Balance and Management*.
+Roest, G. S. et al.: Informing urban climate planning with high resolution data: the Hestia fossil fuel CO2 emissions for Baltimore, Maryland, accepted to *Carbon Balance and Management*.
 
 # 2020
 
@@ -60,8 +60,9 @@ Contributed to: Parish, D. D., S. Kemball-Cook, J. Grant, and G. Yarwood, 2017: 
 
 Roest, G. S., 2014: Quasigeostrophic Diagnosis of an Explosively Developing Cyclone Along the Northern California Coast. Masters Thesis, San Francisco State University.
 
-# Published datasets (submitter in bold)
-Gurney, K. R., J. Liang, R. Patarasuk, Y. Song, J. Huang, and **G. S. Roest**, 2019. Vulcan Version 3.0 High-Resolution Fossil Fuel CO2 Hourly Emissions, USA, 2010-2015. In prep for ORNL DAAC, Oak Ridge, Tennessee, USA.
+# Published datasets (submitter in *bold*)
+
+Gurney, K. R., J. Liang, R. Patarasuk, Y. Song, J. Huang, and **G. S. Roest**, 2019. Vulcan Version 3.0 High-Resolution Fossil Fuel CO2 Hourly Emissions, USA, 2010-2015. ORNL DAAC, Oak Ridge, Tennessee, USA. https://doi.org/10.3334/ORNLDAAC/1810
 
 Gurney, K. R., J. Liang, R. Patarasuk, Y. Song, J. Huang, and **G. S. Roest**, 2019. Vulcan Version 3.0 High-Resolution Fossil Fuel CO2 Annual Emissions, USA, 2010-2015. ORNL DAAC, Oak Ridge, Tennessee, USA. https://doi.org/10.3334/ORNLDAAC/1741 
 
