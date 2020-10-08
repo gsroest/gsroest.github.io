@@ -13,8 +13,6 @@ Addington, O. et al.: Estimating Nitrous Oxide (N2O) Emissions for the Los Angel
 
 Gurney, K. R. et al.: Real-time data-driven estimate of U.S. fossil fuel carbon dioxide emissions during the COVID-19 pandemic. In prep for *TBD*.
 
-Gurney, K. R. et al.: The Vulcan Version 3.0 High-Resolution Fossil Fuel CO2 Emissions for the United States, accepted to *J. Geophys. Res.: Atmos*.
-
 Gurney, K. R. et al.: Under-reporting of greenhouse gas emissions in U.S. cities, submitted to *Nature Communications*.
 
 Miles, N. L. et al.: The influence of near-field fluxes on seasonal CO2 enhancements: Results from the Indianapolis Flux Experiment (INFLUX). In prep for *TBD*.
@@ -24,6 +22,8 @@ Mueller, K. L. et al.: Measurement-based greenhouse gas emission estimates in su
 Roest, G. S. et al.: Informing urban climate planning with high resolution data: the Hestia fossil fuel CO2 emissions for Baltimore, Maryland, accepted to *Carbon Balance and Management*.
 
 # 2020
+
+Gurney, K. R. et al.: The Vulcan Version 3.0 High-Resolution Fossil Fuel CO2 Emissions for the United States, *J. Geophys. Res.: Atmos*, [https://doi.org/10.1029/2020JD032974](https://doi.org/10.1029/2020JD032974).
 
 Gurney, K. R. et al., 2020: Towards accurate, policy-relevant fossil fuel CO2 emission landscapes, *Envi. Sci. Tech.*, [doi:10.1021/acs.est.0c01175](https://doi.org/10.1021/acs.est.0c01175).
 
