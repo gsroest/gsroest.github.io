@@ -11,7 +11,7 @@ Please find my publications below, along with a list of publications that are cu
 
 Addington, O. et al.: Estimating Nitrous Oxide (N2O) Emissions for the Los Angeles Megacity using mountaintop remote sensing observations. Submitted to *Remote Sens. Environ.*
 
-Gurney, K. R. et al.: Real-time data-driven estimate of U.S. fossil fuel carbon dioxide emissions during the COVID-19 pandemic. In prep for *TBD*.
+Gurney, K. R. et al.: Real-time data-driven estimate of U.S. fossil fuel carbon dioxide emissions during the COVID-19 pandemic. In prep for *PNAS*.
 
 Gurney, K. R. et al.: Under-reporting of greenhouse gas emissions in U.S. cities, submitted to *Nature Communications*.
 
@@ -19,13 +19,13 @@ Miles, N. L. et al.: The influence of near-field fluxes on seasonal CO2 enhancem
 
 Mueller, K. L. et al.: Measurement-based greenhouse gas emission estimates in support of city climate action and sustainability goals. Submitted to *Nature Urban Sustainability*.
 
-Roest, G. S. et al.: Informing urban climate planning with high resolution data: the Hestia fossil fuel CO2 emissions for Baltimore, Maryland, accepted to *Carbon Balance and Management*.
-
 # 2020
 
 Gurney, K. R. et al.: The Vulcan Version 3.0 High-Resolution Fossil Fuel CO2 Emissions for the United States, *J. Geophys. Res.: Atmos*, [https://doi.org/10.1029/2020JD032974](https://doi.org/10.1029/2020JD032974).
 
 Gurney, K. R. et al., 2020: Towards accurate, policy-relevant fossil fuel CO2 emission landscapes, *Envi. Sci. Tech.*, [doi:10.1021/acs.est.0c01175](https://doi.org/10.1021/acs.est.0c01175).
+
+Roest, G. S. et al.: Informing urban climate planning with high resolution data: the Hestia fossil fuel CO2 emissions for Baltimore, Maryland, *Carbon Balance and Management*, [https://doi.org/10.1186/s13021-020-00157-0](https://doi.org/10.1186/s13021-020-00157-0).
 
 Roest, G. S., and G. W. Schade, 2020: Air quality impacts from oil and gas activity in the western Eagle Ford Shale, *Elem. Sci. Anth.*, [doi:10.1525/elementa.414](http://doi.org/10.1525/elementa.414)
 
