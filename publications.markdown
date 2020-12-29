@@ -13,11 +13,18 @@ Addington, O. et al.: Estimating Nitrous Oxide (N2O) Emissions for the Los Angel
 
 Gurney, K. R. et al.: Real-time data-driven estimate of U.S. fossil fuel carbon dioxide emissions during the COVID-19 pandemic. In prep for *PNAS*.
 
-Gurney, K. R. et al.: Under-reporting of greenhouse gas emissions in U.S. cities, submitted to *Nature Communications*.
+Gurney, K. R. et al.: Under-reporting of greenhouse gas emissions in U.S. cities, accepted to *Nature Communications*.
 
 Miles, N. L. et al.: The influence of near-field fluxes on seasonal CO2 enhancements: Results from the Indianapolis Flux Experiment (INFLUX). In prep for *TBD*.
 
-Mueller, K. L. et al.: Measurement-based greenhouse gas emission estimates in support of city climate action and sustainability goals. Submitted to *Nature Urban Sustainability*.
+Mueller, K. L. et al.: Emerging measurement-based methods can help cities achieve their climate and sustainability goals. Submitted to *Nature Urban Sustainability*.
+
+Wu, K. et al.: Evaluating an emission inventory using atmospheric CO2 flux measurements and source partitioning in a suburban environment, in prep for *Geophys. Res. Let*.
+
+Yadav, V. et al: The impact of COVID-19 policies on CO2 emissions in the Los Angeles and Washington DC metropolitan areas, submitted to *PNAS*.
+
+
+
 
 # 2020
 
