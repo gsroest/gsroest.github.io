@@ -9,7 +9,7 @@ Please find my publications below, along with a list of publications that are cu
 
 # Submitted, under review, and pre-prints:
 
-Gurney, K. R. et al.: Real-time data-driven estimate of U.S. fossil fuel carbon dioxide emissions during the COVID-19 pandemic. [Pre-print](https://eartharxiv.org/repository/object/2266/download/4669/).
+Gurney, K. R. et al.: Real-time data-driven estimate of U.S. fossil fuel carbon dioxide emissions during the COVID-19 pandemic. [Pre-print]: [download](https://eartharxiv.org/repository/object/2266/download/4669/).
 
 Miles, N. L. et al.: The influence of near-field fluxes on seasonal CO2 enhancements: Results from the Indianapolis Flux Experiment (INFLUX). In prep for *TBD*.
 
@@ -24,9 +24,9 @@ Yadav, V. et al: The impact of COVID-19 policies on CO2 emissions in the Los Ang
 
 # 2021
 
-Addington, O. et al.: Estimating Nitrous Oxide (N2O) Emissions for the Los Angeles Megacity using mountaintop remote sensing observations. *Remote Sens. Environ.*, [https://doi.org/10.1016/j.rse.2021.112351](https://doi.org/10.1016/j.rse.2021.112351).
+Addington, O. et al.: Estimating Nitrous Oxide (N2O) Emissions for the Los Angeles Megacity using mountaintop remote sensing observations. *Remote Sens. Environ.*, [doi.org/10.1016/j.rse.2021.112351](https://doi.org/10.1016/j.rse.2021.112351).
 
-Gurney, K. R. et al.: Under-reporting of greenhouse gas emissions in U.S. cities, *Nature Communications*, [https://doi.org/10.1038/s41467-020-20871-0](https://doi.org/10.1038/s41467-020-20871-0).
+Gurney, K. R. et al.: Under-reporting of greenhouse gas emissions in U.S. cities, *Nature Communications*, [doi.org/10.1038/s41467-020-20871-0](https://doi.org/10.1038/s41467-020-20871-0).
 
 
 
@@ -34,11 +34,11 @@ Gurney, K. R. et al.: Under-reporting of greenhouse gas emissions in U.S. cities
 
 # 2020
 
-Gurney, K. R. et al.: The Vulcan Version 3.0 High-Resolution Fossil Fuel CO2 Emissions for the United States, *J. Geophys. Res.: Atmos*, [https://doi.org/10.1029/2020JD032974](https://doi.org/10.1029/2020JD032974).
+Gurney, K. R. et al.: The Vulcan Version 3.0 High-Resolution Fossil Fuel CO2 Emissions for the United States, *J. Geophys. Res.: Atmos*, [doi.org/10.1029/2020JD032974](https://doi.org/10.1029/2020JD032974).
 
 Gurney, K. R. et al., 2020: Towards accurate, policy-relevant fossil fuel CO2 emission landscapes, *Envi. Sci. Tech.*, [doi:10.1021/acs.est.0c01175](https://doi.org/10.1021/acs.est.0c01175).
 
-Roest, G. S. et al.: Informing urban climate planning with high resolution data: the Hestia fossil fuel CO2 emissions for Baltimore, Maryland, *Carbon Balance and Management*, [https://doi.org/10.1186/s13021-020-00157-0](https://doi.org/10.1186/s13021-020-00157-0).
+Roest, G. S. et al.: Informing urban climate planning with high resolution data: the Hestia fossil fuel CO2 emissions for Baltimore, Maryland, *Carbon Balance and Management*, [doi.org/10.1186/s13021-020-00157-0](https://doi.org/10.1186/s13021-020-00157-0).
 
 Roest, G. S., and G. W. Schade, 2020: Air quality impacts from oil and gas activity in the western Eagle Ford Shale, *Elem. Sci. Anth.*, [doi:10.1525/elementa.414](http://doi.org/10.1525/elementa.414)
 
