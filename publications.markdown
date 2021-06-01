@@ -7,21 +7,27 @@ permalink: /publications/
 Please find my publications below, along with a list of publications that are currently being prepared or are under review.
 
 
-# Submitted and under review
+# Submitted, under review, and pre-prints:
 
-Addington, O. et al.: Estimating Nitrous Oxide (N2O) Emissions for the Los Angeles Megacity using mountaintop remote sensing observations. Submitted to *Remote Sens. Environ.*
-
-Gurney, K. R. et al.: Real-time data-driven estimate of U.S. fossil fuel carbon dioxide emissions during the COVID-19 pandemic. In prep for *PNAS*.
-
-Gurney, K. R. et al.: Under-reporting of greenhouse gas emissions in U.S. cities, accepted to *Nature Communications*.
+Gurney, K. R. et al.: Real-time data-driven estimate of U.S. fossil fuel carbon dioxide emissions during the COVID-19 pandemic. [Pre-print](https://eartharxiv.org/repository/object/2266/download/4669/).
 
 Miles, N. L. et al.: The influence of near-field fluxes on seasonal CO2 enhancements: Results from the Indianapolis Flux Experiment (INFLUX). In prep for *TBD*.
 
-Mueller, K. L. et al.: Emerging measurement-based methods can help cities achieve their climate and sustainability goals. Submitted to *Nature Urban Sustainability*.
+Mueller, K. L. et al.: Emerging measurement-based methods can help cities achieve their climate and sustainability goals. Submitted to *Envi. Res. Lett.*.
 
 Wu, K. et al.: Evaluating an emission inventory using atmospheric CO2 flux measurements and source partitioning in a suburban environment, in prep for *Geophys. Res. Let*.
 
-Yadav, V. et al: The impact of COVID-19 policies on CO2 emissions in the Los Angeles and Washington DC metropolitan areas, submitted to *PNAS*.
+Yadav, V. et al: The impact of COVID-19 policies on CO2 emissions in the Los Angeles and Washington DC metropolitan areas, accepted to *ERL*.
+
+
+
+
+# 2021
+
+Addington, O. et al.: Estimating Nitrous Oxide (N2O) Emissions for the Los Angeles Megacity using mountaintop remote sensing observations. *Remote Sens. Environ.*, [https://doi.org/10.1016/j.rse.2021.112351](https://doi.org/10.1016/j.rse.2021.112351).
+
+Gurney, K. R. et al.: Under-reporting of greenhouse gas emissions in U.S. cities, *Nature Communications*, [https://doi.org/10.1038/s41467-020-20871-0](https://doi.org/10.1038/s41467-020-20871-0).
+
 
 
 
