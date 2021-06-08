@@ -17,8 +17,6 @@ Mueller, K. L. et al.: Emerging measurement-based methods can help cities achiev
 
 Wu, K. et al.: Evaluating an emission inventory using atmospheric CO2 flux measurements and source partitioning in a suburban environment, in prep for *Geophys. Res. Let*.
 
-Yadav, V. et al: The impact of COVID-19 policies on CO2 emissions in the Los Angeles and Washington DC metropolitan areas, accepted to *ERL*.
-
 
 
 
@@ -28,6 +26,7 @@ Addington, O. et al.: Estimating Nitrous Oxide (N2O) Emissions for the Los Angel
 
 Gurney, K. R. et al.: Under-reporting of greenhouse gas emissions in U.S. cities, *Nature Communications*, [doi.org/10.1038/s41467-020-20871-0](https://doi.org/10.1038/s41467-020-20871-0).
 
+Yadav, V. et al: The Impact of COVID-19 on CO2 Emissions in the Los Angeles and Washington DC/Baltimore Metropolitan Areas, *Geophys. Res. Let.*, [doi.org/10.1029/2021GL092744](https://doi.org/10.1029/2021GL092744).
 
 
 
