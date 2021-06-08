@@ -7,7 +7,7 @@ permalink: /publications/
 Please find my publications below, along with a list of publications that are currently being prepared or are under review.
 
 
-# Submitted, under review, and pre-prints:
+# In prep, submitted, under review, and pre-prints:
 
 Gurney, K. R. et al.: Real-time data-driven estimate of U.S. fossil fuel carbon dioxide emissions during the COVID-19 pandemic. [Pre-print]: [download](https://eartharxiv.org/repository/object/2266/download/4669/).
 
