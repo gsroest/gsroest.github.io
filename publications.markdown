@@ -13,8 +13,6 @@ Gurney, K. R. et al.: Real-time data-driven estimate of U.S. fossil fuel carbon 
 
 Miles, N. L. et al.: The influence of near-field fluxes on seasonal CO2 enhancements: Results from the Indianapolis Flux Experiment (INFLUX). In prep for *TBD*.
 
-Mueller, K. L. et al.: Emerging measurement-based methods can help cities achieve their climate and sustainability goals. Submitted to *Envi. Res. Lett.*.
-
 Wu, K. et al.: Evaluating an emission inventory using atmospheric CO2 flux measurements and source partitioning in a suburban environment, in prep for *Geophys. Res. Let*.
 
 
@@ -22,22 +20,24 @@ Wu, K. et al.: Evaluating an emission inventory using atmospheric CO2 flux measu
 
 # 2021
 
-Addington, O. et al.: Estimating Nitrous Oxide (N2O) Emissions for the Los Angeles Megacity using mountaintop remote sensing observations. *Remote Sens. Environ.*, [doi.org/10.1016/j.rse.2021.112351](https://doi.org/10.1016/j.rse.2021.112351).
+Addington, O. et al.: Estimating Nitrous Oxide (N2O) Emissions for the Los Angeles Megacity using mountaintop remote sensing observations. *Remote Sens. Environ.*, [doi:10.1016/j.rse.2021.112351](https://doi.org/10.1016/j.rse.2021.112351).
 
-Gurney, K. R. et al.: Under-reporting of greenhouse gas emissions in U.S. cities, *Nature Communications*, [doi.org/10.1038/s41467-020-20871-0](https://doi.org/10.1038/s41467-020-20871-0).
+Gurney, K. R. et al.: Under-reporting of greenhouse gas emissions in U.S. cities, *Nature Communications*, [doi.:10.1038/s41467-020-20871-0](https://doi.org/10.1038/s41467-020-20871-0).
 
-Yadav, V. et al: The Impact of COVID-19 on CO2 Emissions in the Los Angeles and Washington DC/Baltimore Metropolitan Areas, *Geophys. Res. Let.*, [doi.org/10.1029/2021GL092744](https://doi.org/10.1029/2021GL092744).
+Mueller, K. L. et al.: An emerging GHG estimation approach can help cities achieve their climate and sustainability goals. *Envi. Res. Lett.*, [doi:10.1088/1748-9326/ac0f25](https://doi.org/10.1088/1748-9326/ac0f25).
+
+Yadav, V. et al: The Impact of COVID-19 on CO2 Emissions in the Los Angeles and Washington DC/Baltimore Metropolitan Areas, *Geophys. Res. Let.*, [doi:10.1029/2021GL092744](https://doi.org/10.1029/2021GL092744).
 
 
 
 
 # 2020
 
-Gurney, K. R. et al.: The Vulcan Version 3.0 High-Resolution Fossil Fuel CO2 Emissions for the United States, *J. Geophys. Res.: Atmos*, [doi.org/10.1029/2020JD032974](https://doi.org/10.1029/2020JD032974).
+Gurney, K. R. et al.: The Vulcan Version 3.0 High-Resolution Fossil Fuel CO2 Emissions for the United States, *J. Geophys. Res.: Atmos*, [doi:10.1029/2020JD032974](https://doi.org/10.1029/2020JD032974).
 
 Gurney, K. R. et al., 2020: Towards accurate, policy-relevant fossil fuel CO2 emission landscapes, *Envi. Sci. Tech.*, [doi:10.1021/acs.est.0c01175](https://doi.org/10.1021/acs.est.0c01175).
 
-Roest, G. S. et al.: Informing urban climate planning with high resolution data: the Hestia fossil fuel CO2 emissions for Baltimore, Maryland, *Carbon Balance and Management*, [doi.org/10.1186/s13021-020-00157-0](https://doi.org/10.1186/s13021-020-00157-0).
+Roest, G. S. et al.: Informing urban climate planning with high resolution data: the Hestia fossil fuel CO2 emissions for Baltimore, Maryland, *Carbon Balance and Management*, [doi:10.1186/s13021-020-00157-0](https://doi.org/10.1186/s13021-020-00157-0).
 
 Roest, G. S., and G. W. Schade, 2020: Air quality impacts from oil and gas activity in the western Eagle Ford Shale, *Elem. Sci. Anth.*, [doi:10.1525/elementa.414](http://doi.org/10.1525/elementa.414)
 
