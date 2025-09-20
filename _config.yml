@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Geoff Roest, PhD
-email: Geoffrey.Roest@nau.edu
+email: gsroest@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Thank you for visitin my site. I am an atmospheric scientist at Northern Arizona University in Flagstaff, AZ. My current research focuses on CO2 emissions from fossil fuel use in the United States.
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -27,7 +27,6 @@ url: "https://scholar.google.com/citations?user=px2XRPkAAAAJ&hl=en" # the base h
 linkedin_username: geoff-roest-82715782
 google-scholar: px2XRPkAAAAJ&hl
 github_username:  gsroest
-twitter_username: GeoffRoest
 
 # Build settings
 theme: minima
@@ -38,7 +37,6 @@ header_pages:
   - about.markdown
   - research.markdown
   - publications.markdown
-  - running.markdown
   - contact.markdown
   
 # Exclude from processing.
